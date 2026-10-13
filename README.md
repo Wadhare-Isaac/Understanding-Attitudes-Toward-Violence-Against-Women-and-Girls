@@ -122,7 +122,7 @@ Across the available observations, female subgroup means were higher than male s
 
 This result is interpreted cautiously because missingness is highly uneven by gender: male observations contain substantially more missing values than female observations. The analysis therefore treats these as descriptive differences among the available aggregate estimates rather than as definitive population-level statements about individual women and men.
 
-![Gender gap across violence-justification scenarios](graphs/Gender_Gap_in_Reported_Attitudes_by_Gender.png)
+![Gender Gap in Reported Attitudes Towards Violence](images/Gender%20Gap%20in%20Reported%20Attitudes%20Towards%20Violence.png)
 
 ---
 
@@ -138,7 +138,7 @@ In the final adjusted specification, using **no education** as the reference cat
 
 The education gradient remains statistically detectable under country-clustered inference, HC3 robust inference, and influence sensitivity analysis. The higher- and secondary-education estimates are especially stable; the primary-education estimate is directionally robust but more sensitive in magnitude.
 
-![Education patterns by gender](assets/education_gender.png)
+![Education patterns by gender](images/Education%20Gradient%20in%20Reported%20Attitudes%20by%20Gender.png)
 
 ---
 
@@ -148,7 +148,7 @@ After adjustment, urban groups have reported values approximately **7.40 percent
 
 Age and marital-status differences are statistically detectable but smaller. Employment is more nuanced: cash employment is not statistically distinguishable from unemployment, while employment for kind is associated with a higher reported percentage.
 
-![Adjusted demographic effects with 95% confidence intervals](assets/adjusted_demographic_effects.png)
+![Adjusted demographic effects with 95% confidence intervals](images/Adjusted%20Demographic%20Association%20nWith%20Reported%20Violence%20Justification.png)
 
 ---
 
@@ -162,7 +162,7 @@ The Friedman test provides strong evidence that the five specific scenario distr
 
 Among the five specific scenarios, **neglecting the children** is the highest-valued scenario in **48 of 70 countries**. Burning the food is not the highest-valued specific scenario in any country.
 
-![Country by violence-justification scenario heatmap](assets/country_scenario_heatmap.png)
+![Country by violence-justification scenario heatmap](images/Country-Specific%20Deviations%20from%20cross%20country%20Scenario%20means.png)
 
 ---
 
@@ -174,7 +174,7 @@ After standardization, the elbow method suggested a two-to-three cluster structu
 
 The two clusters have similar profile shapes but differ substantially in their overall reported levels across all five scenarios. A three-cluster sensitivity analysis produces lower, intermediate, and higher profiles, supporting the interpretation that the main structure is closer to a **continuum** than to fundamentally discrete country types.
 
-![Country cluster profiles](assets/cluster_profiles.png)
+![Country cluster profiles](images/Violence%20Justification%20Profiles%20Across%20Country%20Clusters.png)
 
 ---
 
@@ -190,7 +190,7 @@ This means the main source of cross-country variation is a broad common dimensio
 
 The K-Means clusters separate almost entirely along PC1, reinforcing the interpretation that clustering mainly partitions countries according to their position on this underlying continuum.
 
-![PCA representation of country profiles](assets/pca_country_profiles.png)
+![PCA representation of country profiles](images/PCA%20representation%20of%20country%20violence%20justification%20profiles.png)
 
 ---
 
