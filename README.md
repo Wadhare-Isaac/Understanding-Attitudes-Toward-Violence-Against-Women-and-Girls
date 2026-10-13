@@ -339,5 +339,4 @@ The strongest findings are a pronounced education gradient, a sizeable rural-urb
 
 The project also illustrates an important data-science principle: **the most sophisticated model is not always the most appropriate model**. Methodological choices should follow the research question and the data-generating structure rather than the availability of an algorithm.
 
----
 
