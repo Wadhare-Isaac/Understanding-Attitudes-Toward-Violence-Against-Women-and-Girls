@@ -285,10 +285,12 @@ The country profiles are best used to identify contexts where additional researc
 ```text
 .
 ├── README.md
-├── Gender Analysis.ipynb
-├── Violence Against Women  Girls Data.csv
+├── Notebook
+    └──Gender Analysis.ipynb
+├── data
+    └──  Violence Against Women  Girls Data.csv
 ├── requirements.txt
-└── assets/
+└── images/
     ├── adjusted_demographic_effects.png
     ├── cluster_profiles.png
     ├── country_scenario_heatmap.png
@@ -338,8 +340,4 @@ The strongest findings are a pronounced education gradient, a sizeable rural-urb
 The project also illustrates an important data-science principle: **the most sophisticated model is not always the most appropriate model**. Methodological choices should follow the research question and the data-generating structure rather than the availability of an algorithm.
 
 ---
-
-## Next Step
-
-The next deliverable for this project is a concise stakeholder presentation that communicates the problem, methodology, strongest findings, policy implications, and limitations in approximately 10–12 slides.
 
