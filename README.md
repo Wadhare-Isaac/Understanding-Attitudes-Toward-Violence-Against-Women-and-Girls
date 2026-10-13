@@ -122,7 +122,7 @@ Across the available observations, female subgroup means were higher than male s
 
 This result is interpreted cautiously because missingness is highly uneven by gender: male observations contain substantially more missing values than female observations. The analysis therefore treats these as descriptive differences among the available aggregate estimates rather than as definitive population-level statements about individual women and men.
 
-![Gender gap across violence-justification scenarios](assets/gender_gap.png)
+![Gender gap across violence-justification scenarios](graphs/Gender_Gap_in_Reported_Attitudes_by_Gender.png)
 
 ---
 
