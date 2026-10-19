@@ -289,7 +289,6 @@ The country profiles are best used to identify contexts where additional researc
     └──Gender Analysis.ipynb
 ├── data
     └──  Violence Against Women  Girls Data.csv
-├── requirements.txt
 └── images/
     ├── adjusted_demographic_effects.png
     ├── cluster_profiles.png
